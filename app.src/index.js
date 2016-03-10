@@ -1,4 +1,5 @@
 import Hapi from 'hapi';
+import plugins from './server/plugins';
 
 const Server = new Hapi.Server();
 
@@ -8,11 +9,9 @@ Server.connection({
 	port: 8000
 });
 
-Server.route({
-	method: 'GET',
-	path: '/',
-	handler: function(request, reply){
-		reply("Hello Earth");
+Server.register(plugins, function(err){
+	if(err){
+		console.log(err);
 	}
 });
 
