@@ -1,0 +1,62 @@
+{
+	"characters": [
+		{
+			"name": "Thor Odinson",
+			"hero": "Thor",
+			"leagues": [
+				"Gods of Asgard",
+				"Avengers",
+				"Queen's Vengeance",
+				"Godpack",
+				"Thor Corps"
+			],
+			"url": "http://marvel.com/characters/60/thor"
+		},{
+			"name": "Anthony Edward 'Tony' Stark",
+			"hero": "Iron Man",
+			"leagues": [
+				"Avengers",
+				"Initiative",
+				"Hellfire Club",
+				"SHIELD",
+				"Illuminati",
+				"Thunderbolts",
+				"Force Works",
+				"Queen's Vengeance",
+				"Alcoholics Anonymous"
+			],
+			"url": "http://marvel.com/characters/29/iron_man"
+		},{
+			"name": "Natasha Romanova",
+			"hero": "Black Widow",
+			"leagues": [
+				"Avengers",
+				"SHIELD"
+			],
+			"url": "http://marvel.com/characters/6/black_widow"
+		},{
+			"name": "Robert Bruce Banner",
+			"hero": "Hulk",
+			"leagues": [
+				"Avengers",
+				"Defenders",
+				"Fantastic Four",
+				"Pantheon",
+				"Horseman of the Apocolypse",
+				"Warbound"
+			],
+			"url": "http://marvel.com/characters/25/hulk"
+		},{
+			"name": "Steven 'Steve' Rogers",
+			"hero": "Captain America",
+			"leagues": [
+				"Secret Avengers",
+				"Avengers",
+				"Invaders",
+				"Captain's Unnamed Superhero Team",
+				"Redeemers"
+			],
+			"url": "http://marvel.com/characters/8/captain_america"
+		}
+	]
+}
